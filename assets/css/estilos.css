@@ -1,8 +1,10 @@
-body {
-  font-family: "Raleway", sans-serif;
-}
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Single+Day&display=swap");
 
-/* Hero Section */
+body {
+  /*font-family: "Lobster", sans-serif;*/
+  font-family: 'Single Day', cursive;
+
+}
 
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
@@ -32,8 +34,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
