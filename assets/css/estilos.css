@@ -1,13 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Single+Day&display=swap");
 
 body {
-  /*font-family: "Lobster", sans-serif;*/
-  font-family: 'Single Day', cursive;
-
+  font-family: "Single Day", cursive;
 }
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg_hero_sol.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
