@@ -1,7 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Single+Day&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Single+Day&display=swap");
 
 body {
   font-family: "Single Day", cursive;
+}
+
+p {
+  font-family: "Abel", sans-serif;
 }
 
 #Hero-Section {
